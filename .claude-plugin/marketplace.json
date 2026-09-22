@@ -1,0 +1,17 @@
+{
+  "name": "cantinho-tools",
+  "owner": {
+    "name": "Lojas Cantinho Doce - TI",
+    "email": "ti@lojascantinhodoce.com.br"
+  },
+  "description": "Marketplace interno de plugins do Claude Code do Grupo Cantinho Doce.",
+  "plugins": [
+    {
+      "name": "security-audit",
+      "source": "./plugins/security-audit",
+      "description": "Auditoria de seguranca orientada a fonte (skill da Cloudflare, licenca MIT).",
+      "version": "1.0.0",
+      "author": { "name": "Cloudflare" }
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "name": "security-audit",
+  "version": "1.0.0",
+  "description": "Turns the agent into a source-first security auditor: reconnaissance, coverage-led hunting, candidate validation, structured output, independent verification, and target-neutral reporting. Guidance by default; the full six-phase audit runs only when explicitly requested.",
+  "author": {
+    "name": "Cloudflare",
+    "url": "https://github.com/cloudflare/security-audit-skill"
+  },
+  "homepage": "https://github.com/cloudflare/security-audit-skill",
+  "repository": "https://github.com/cloudflare/security-audit-skill",
+  "license": "MIT",
+  "keywords": ["security", "audit", "vulnerability", "pentest", "code-review"]
+}
